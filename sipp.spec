@@ -9,7 +9,6 @@ Source0:	http://prdownloads.sourceforge.net/sipp/sipp.%{version}.tar.bz2
 Source1:	reference.pdf.bz2
 BuildRequires:	libstdc++-devel
 BuildRequires:	ncurses-devel
-BuildRoot:	%{_tmppath}/%{name}-buildroot
 
 %description
 SIPp is a performance testing tool for the SIP protocol. It
