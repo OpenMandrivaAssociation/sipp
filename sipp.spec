@@ -4,6 +4,7 @@ Version: 	1.0
 Release: 	%mkrel 3
 License:	GPL
 Group:		Networking/Other
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 URL:		http://sipp.sourceforge.net/
 Source0:	http://prdownloads.sourceforge.net/sipp/sipp.%{version}.tar.bz2
 Source1:	reference.pdf.bz2
