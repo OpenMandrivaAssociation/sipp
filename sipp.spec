@@ -1,4 +1,4 @@
-Summary: 	SIPp is a performance testing tool for the SIP protocol
+Summary: 	Performance testing tool for the SIP protocol
 Name: 	 	sipp
 Version: 	1.0
 Release: 	%mkrel 3
