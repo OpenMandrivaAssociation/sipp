@@ -1,7 +1,7 @@
 Summary: 	Performance testing tool for the SIP protocol
 Name: 	 	sipp
 Version: 	1.0
-Release: 	%mkrel 4
+Release: 	%mkrel 6
 License:	GPL
 Group:		Networking/Other
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
